@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi 👋, I'm Arpit Maurya<br><br>### 💻 Full-Stack Developer | Freelance Web Developer | Znole Technology<br><br>I'm a **Full-Stack Developer** and **Freelance Web Developer** from India. I currently work as a **Freelancer at Znole Technology**, where I build modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and continuously improving my development skills.<br><br>## 🚀 About Me<br><br>* 💼 **Freelance Web Developer at Znole Technology**<br>* 💻 **Full-Stack Web Developer**<br>* 🎨 Building modern and responsive interfaces with **Tailwind CSS**<br>* 🐍 Working with **Python & Django**<br>* 🗄️ Working with **MySQL Database**<br>* 🚀 Deploying and hosting projects with **Vercel**<br>* 🎮 **Currently working on a new game project**<br>* 🌱 Continuously learning and exploring new technologies<br><br>## 🛠️ Skills<br><br>### Frontend<br><br>* HTML5<br>* CSS3<br>* JavaScript<br>* Tailwind CSS<br>* Bootstrap<br><br>### Backend<br><br>* Python<br>* Django<br><br>### Database<br><br>* MySQL<br><br>### Tools & Platforms<br><br>* Git & GitHub<br>* VS Code<br>* Vercel<br><br>## 🎮 Projects<br><br>### 🕹️ Current Project — Game Development<br><br>🚧 **Currently Building**<br><br>I'm currently working on a new game project, focusing on interactive gameplay, animations, UI design, and JavaScript functionality.<br><br>### ❌⭕ Previous Project — Tic Tac Toe<br><br>A browser-based **Tic Tac Toe game** built with HTML, CSS, and JavaScript.<br><br>**Features:**<br><br>* 🎮 Interactive gameplay<br>* 🔊 Click and game sound effects<br>* ✨ Animated UI<br>* 🔄 Restart functionality<br>* 📱 Responsive design<br><br>## 📫 Connect With Me<br><br>* 🌐 Portfolio: https://your-portfolio.com<br>* 💼 LinkedIn: https://linkedin.com/in/your-username<br>* 📷 Instagram: https://instagram.com/your_username<br>* 💻 GitHub: https://github.com/ArpitTech-756<br><br>---<br><br>⭐ **I believe every project is an opportunity to learn, create, and become a better developer.**<br><br>### 🚀 Code • Create • Learn • Build<br><br>
 
-<!--
-**ArpitTech-756/ArpitTech-756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/🥀Arpit_❤️‍🩹) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arpit Maurya) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Arpit Maurya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitamaurya8081735269@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ArpitTech-756&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ArpitTech-756&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArpitTech-756&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=ArpitTech-756&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Arpit Maurya) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
