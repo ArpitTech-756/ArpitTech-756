@@ -1,141 +1,229 @@
-# 🎮 GitHub Contribution Pac-Man
+<!-- ========================= HEADER ========================= -->
 
-> **Pac-Man eating your GitHub contributions!**  
-> Apna GitHub profile zyada fun banana — bilkul us image ki tarah!
+<h1 align="center">Hey 👋, I'm Arpit</h1>
 
-<!-- After running the workflow, replace YOUR_USERNAME with your GitHub username -->
-![Pac-Man eating my contributions](./pacman.svg)
+<h3 align="center">
+  💻 Full Stack Developer | 🚀 Web Developer | 🧠 Problem Solver
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2757F5&center=true&vCenter=true&width=200&lines=Building+Modern+Web+Applications;Learning+Full+Stack+Development;Turning+Ideas+Into+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
+
 
 ---
 
-## 🚀 Setup — Apne GitHub Profile Mein Kaise Add Karein
+<!-- ========================= ABOUT ========================= -->
 
-### Step 1 — Repository Create Karein
+## 🧑‍💻 About Me
 
-Apne GitHub username ke naam ki ek **special repository** banao.  
-Example: agar username `arpit123` hai toh repo ka naam bhi `arpit123` hona chahiye.
+I'm **Arpit**, a passionate **Full Stack Developer** who enjoys creating modern, responsive, and interactive web applications.
 
-```
-github.com/arpit123/arpit123   ← yeh aapka profile repo hai
-```
+I started my development journey with **HTML and CSS** and gradually moved into **JavaScript, frontend development, backend development, APIs, databases, and full-stack applications**.
 
-### Step 2 — Files Upload Karein
+I enjoy learning by building real projects, experimenting with new technologies, and improving my problem-solving skills.
 
-Is project ki saari files us repo mein copy karo:
-```
-arpit123/
-├── .github/
-│   └── workflows/
-│       └── pacman.yml   ← Auto-generates SVG daily
-├── generate_svg.py      ← SVG generator script
-├── README.md            ← Aapka profile README
-└── pacman.svg           ← Auto-generated (pehle baar manually run karo)
+```text
+💻 Code       → Build
+🧠 Learn      → Improve
+🚀 Experiment → Create
+🔥 Repeat     → Grow
 ```
 
-### Step 3 — SVG Pehli Baar Generate Karein
+---
 
-```bash
-# Local machine par:
-python generate_svg.py --username YOUR_GITHUB_USERNAME
+## 🚀 Currently Working On
 
-# Ya sirf demo data se test karo:
-python generate_svg.py --demo
+* 🌐 Full Stack Web Development
+* ⚡ JavaScript & Modern Web Technologies
+* 🎨 Responsive UI/UX
+* 🔌 APIs & Backend Development
+* 🗄️ Databases
+* 🧩 Real-world Projects
+* 🧠 Problem Solving
+
+---
+
+<!-- ========================= TECH STACK ========================= -->
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+<!-- ========================= CURRENT STATUS ========================= -->
+
+## 📊 My GitHub Activity
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🟢 My Current Working Status
+
+```text
+┌──────────────────────────────────────────┐
+│           CURRENT STATUS                 │
+├──────────────────────────────────────────┤
+│ 🟢 Status       : Learning & Building   │
+│ 💻 Focus        : Full Stack Development│
+│ ⚡ Main Skill   : JavaScript            │
+│ 🌐 Working On   : Web Projects          │
+│ 🧠 Learning     : Backend + APIs        │
+│ 🚀 Goal         : Professional Developer│
+└──────────────────────────────────────────┘
 ```
 
-### Step 4 — README mein Add Karein
+---
 
-Apne `README.md` mein yeh line add karo:
+<!-- ========================= JOURNEY ========================= -->
 
-```markdown
+## 🛣️ Development Journey
+
+```text
+HTML + CSS
+    │
+    ▼
+JavaScript
+    │
+    ▼
+Frontend Development
+    │
+    ▼
+Backend Development
+    │
+    ▼
+APIs + Databases
+    │
+    ▼
+Full Stack Development
+    │
+    ▼
+Real-World Applications 🚀
+```
+
+---
+
+<!-- ========================= PROJECTS ========================= -->
+
+## 🚀 Projects
+
+| Project                | Technology                    | Status      |
+| :--------------------- | :---------------------------- | :---------- |
+| 🎮 Tic Tac Toe         | HTML • CSS • JavaScript       | 🟢 Active   |
+| 🎲 Snakes & Ladders    | JavaScript                    | 🟢 Active   |
+| 🌐 Web Projects        | HTML • CSS • JavaScript       | 🟢 Active   |
+| 💻 Full Stack Projects | Frontend • Backend • Database | 🔨 Learning |
+
+> 🚧 More exciting projects are coming soon...
+
+---
+
 ![Pac-Man](./pacman.svg)
-```
 
-### Step 5 — GitHub Pages pe Playable Game
 
-Agar pura khelne wala game bhi chahiye:
+<!-- ========================= GOALS ========================= -->
 
-1. GitHub repo settings → **Pages** → Source: `main` branch, root `/`
-2. Game live ho jayega: `https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/`
+## 🎯 2026 Goals
 
----
-
-## 🎮 Controls
-
-| Key | Action |
-|-----|--------|
-| ⬆⬇⬅➡ Arrow Keys | Move Pac-Man |
-| `W A S D` | Move Pac-Man |
-| `P` | Pause / Resume |
-| `R` | Restart |
-| 📱 Swipe | Mobile support |
-
----
-
-## 🧩 Game Features
-
-- **52 × 7 grid** — exactly like GitHub's contribution graph
-- **4 Ghosts** with different AI personalities:
-  - 👻 **Blinky** (Red) — direct chase
-  - 👻 **Pinky** (Pink) — intercepts ahead of you
-  - 👻 **Inky** (Blue) — ambush strategy
-  - 👻 **Clyde** (Orange) — scatters when close
-- **Power Pellets** in corners — eat ghosts for 200 pts bonus!
-- **High Score** saved in browser
-- **Mobile friendly** (touch swipe support)
-- **GitHub Dark Mode** colour palette 🖤
-
----
-
-## 📊 Scoring
-
-| Action | Points |
-|--------|--------|
-| Eat a contribution cell | +10 |
-| Eat a power pellet | +50 |
-| Eat a frightened ghost | +200 |
-
----
-
-## 🛠️ Local Development
-
-```bash
-# Clone and open directly in browser
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
-cd YOUR_REPO_NAME
-
-# Open the game
-start index.html    # Windows
-open index.html     # Mac
-xdg-open index.html # Linux
-
-# Generate/update SVG
-python generate_svg.py --username YOUR_USERNAME
+```text
+✅ Improve JavaScript
+✅ Build Better UI/UX
+✅ Learn Backend Development
+🔄 Work With APIs
+✅ Improve Database Knowledge
+🔄 Build Full Stack Applications
+🔄 Create Real-World Projects
+🎯 Become a Professional Full Stack Developer
 ```
 
 ---
 
-## 📁 File Structure
+<!-- ========================= GITHUB TROPHIES ========================= -->
 
-```
-game tab/
-├── index.html          ← Game HTML (open this to play!)
-├── style.css           ← GitHub dark theme styling
-├── game.js             ← Complete Pac-Man engine
-├── generate_svg.py     ← Animated SVG generator for README
-├── pacman.svg          ← Auto-generated animated SVG
-├── .github/
-│   └── workflows/
-│       └── pacman.yml  ← Daily auto-update workflow
-└── README.md           ← This file
-```
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+</p>
 
 ---
 
-## 💡 Inspired By
+<!-- ========================= CONNECT ========================= -->
 
-The popular GitHub Pac-Man contribution graph trend — showing how your
-coding activity looks like a Pac-Man level!
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-*Made with 💚 and JavaScript*
+<!-- ========================= QUOTE ========================= -->
+
+## 💭 Developer Mindset
+
+<p align="center">
+  <i>"Learn. Build. Break. Fix. Improve. Repeat."</i>
+</p>
+
+---
+
+
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
+</p>
