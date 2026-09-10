@@ -1,22 +1,232 @@
-# 💫 About Me:
-# Hi 👋, I'm Arpit Maurya<br><br>### 💻 Full-Stack Developer | Freelance Web Developer | Znole Technology<br><br>I'm a **Full-Stack Developer** and **Freelance Web Developer** from India. I currently work as a **Freelancer at Znole Technology**, where I build modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and continuously improving my development skills.<br><br>## 🚀 About Me<br><br>* 💼 **Freelance Web Developer at Znole Technology**<br>* 💻 **Full-Stack Web Developer**<br>* 🎨 Building modern and responsive interfaces with **Tailwind CSS**<br>* 🐍 Working with **Python & Django**<br>* 🗄️ Working with **MySQL Database**<br>* 🚀 Deploying and hosting projects with **Vercel**<br>* 🎮 **Currently working on a new game project**<br>* 🌱 Continuously learning and exploring new technologies<br><br>## 🛠️ Skills<br><br>### Frontend<br><br>* HTML5<br>* CSS3<br>* JavaScript<br>* Tailwind CSS<br>* Bootstrap<br><br>### Backend<br><br>* Python<br>* Django<br><br>### Database<br><br>* MySQL<br><br>### Tools & Platforms<br><br>* Git & GitHub<br>* VS Code<br>* Vercel<br><br>## 🎮 Projects<br><br>### 🕹️ Current Project — Game Development<br><br>🚧 **Currently Building**<br><br>I'm currently working on a new game project, focusing on interactive gameplay, animations, UI design, and JavaScript functionality.<br><br>### ❌⭕ Previous Project — Tic Tac Toe<br><br>A browser-based **Tic Tac Toe game** built with HTML, CSS, and JavaScript.<br><br>**Features:**<br><br>* 🎮 Interactive gameplay<br>* 🔊 Click and game sound effects<br>* ✨ Animated UI<br>* 🔄 Restart functionality<br>* 📱 Responsive design<br><br>## 📫 Connect With Me<br><br>* 🌐 Portfolio: https://your-portfolio.com<br>* 💼 LinkedIn: https://linkedin.com/in/your-username<br>* 📷 Instagram: https://instagram.com/your_username<br>* 💻 GitHub: https://github.com/ArpitTech-756<br><br>---<br><br>⭐ **I believe every project is an opportunity to learn, create, and become a better developer.**<br><br>### 🚀 Code • Create • Learn • Build<br><br>
+<!-- ========================= HEADER ========================= -->
 
+<h1 align="center">Hey 👋, I'm Arpit</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/🥀Arpit_❤️‍🩹) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arpit Maurya) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Arpit Maurya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitamaurya8081735269@gmail.com) 
+<h3 align="center">
+  💻 Full Stack Developer | 🚀 Web Developer | 🧠 Problem Solver
+</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ArpitTech-756&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ArpitTech-756&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArpitTech-756&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2757F5&center=true&vCenter=true&width=200&lines=Building+Modern+Web+Applications;Learning+Full+Stack+Development;Turning+Ideas+Into+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
+
 
 ---
-[![](https://komarev.com/ghpvc/?username=ArpitTech-756&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Arpit Maurya) 
+<!-- ========================= ABOUT ========================= -->
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm **Arpit**, a passionate **Full Stack Developer** who enjoys creating modern, responsive, and interactive web applications.
+
+I started my development journey with **HTML and CSS** and gradually moved into **JavaScript, frontend development, backend development, APIs, databases, and full-stack applications**.
+
+I enjoy learning by building real projects, experimenting with new technologies, and improving my problem-solving skills.
+
+```text
+💻 Code       → Build
+🧠 Learn      → Improve
+🚀 Experiment → Create
+🔥 Repeat     → Grow
+```
+
+---
+
+## 🚀 Currently Working On
+
+* 🌐 Full Stack Web Development
+* ⚡ JavaScript & Modern Web Technologies
+* 🎨 Responsive UI/UX
+* 🔌 APIs & Backend Development
+* 🗄️ Databases
+* 🧩 Real-world Projects
+* 🧠 Problem Solving
+
+---
+
+<!-- ========================= TECH STACK ========================= -->
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+<!-- ========================= CURRENT STATUS ========================= -->
+
+## 📊 My GitHub Activity
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🟢 My Current Working Status
+
+```text
+┌──────────────────────────────────────────┐
+│           CURRENT STATUS                 │
+├──────────────────────────────────────────┤
+│ 🟢 Status       : Learning & Building   │
+│ 💻 Focus        : Full Stack Development│
+│ ⚡ Main Skill   : JavaScript            │
+│ 🌐 Working On   : Web Projects          │
+│ 🧠 Learning     : Backend + APIs        │
+│ 🚀 Goal         : Professional Developer│
+└──────────────────────────────────────────┘
+```
+
+---
+
+<!-- ========================= JOURNEY ========================= -->
+
+## 🛣️ Development Journey
+
+```text
+HTML + CSS
+    │
+    ▼
+JavaScript
+    │
+    ▼
+Frontend Development
+    │
+    ▼
+Backend Development
+    │
+    ▼
+APIs + Databases
+    │
+    ▼
+Full Stack Development
+    │
+    ▼
+Real-World Applications 🚀
+```
+
+---
+
+<!-- ========================= PROJECTS ========================= -->
+
+## 🚀 Projects
+
+| Project                | Technology                    | Status      |
+| :--------------------- | :---------------------------- | :---------- |
+| 🎮 Tic Tac Toe         | HTML • CSS • JavaScript       | 🟢 Active   |
+| 🎲 Snakes & Ladders    | JavaScript                    | 🟢 Active   |
+| 🌐 Web Projects        | HTML • CSS • JavaScript       | 🟢 Active   |
+| 💻 Full Stack Projects | Frontend • Backend • Database | 🔨 Learning |
+
+> 🚧 More exciting projects are coming soon...
+
+---
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArpitTech-756/ArpitTech-756/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArpitTech-756/ArpitTech-756/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArpitTech-756/ArpitTech-756/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+<!-- ========================= GOALS ========================= -->
+
+## 🎯 2026 Goals
+
+```text
+✅ Improve JavaScript
+✅ Build Better UI/UX
+✅ Learn Backend Development
+🔄 Work With APIs
+✅ Improve Database Knowledge
+🔄 Build Full Stack Applications
+🔄 Create Real-World Projects
+🎯 Become a Professional Full Stack Developer
+```
+
+---
+
+<!-- ========================= GITHUB TROPHIES ========================= -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+<!-- ========================= CONNECT ========================= -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<!-- ========================= QUOTE ========================= -->
+
+## 💭 Developer Mindset
+
+<p align="center">
+  <i>"Learn. Build. Break. Fix. Improve. Repeat."</i>
+</p>
+
+---
+
+
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
+</p>
