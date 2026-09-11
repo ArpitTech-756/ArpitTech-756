@@ -42,6 +42,10 @@ I enjoy learning by building real projects, experimenting with new technologies,
 * 🧩 Real-world Projects
 * 🧠 Problem Solving
 
+  <div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ---
 
 <!-- ========================= TECH STACK ========================= -->
@@ -174,7 +178,7 @@ Real-World Applications 🚀
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://arpit-portfolio-gold.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
