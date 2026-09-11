@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Arpit**, a passionate **Full Stack Developer** who enjoys creating modern, responsive, and interactive web applications.
+I'm **Arpit Maurya**, a passionate **Full Stack Developer** who enjoys creating modern, responsive, and interactive web applications.
 
 I started my development journey with **HTML and CSS** and gradually moved into **JavaScript, frontend development, backend development, APIs, databases, and full-stack applications**.
 
