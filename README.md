@@ -37,12 +37,13 @@ I enjoy learning by building real projects, experimenting with new technologies,
 * 🌐 Full Stack Web Development
 * ⚡ JavaScript & Modern Web Technologies
 * 🎨 Responsive UI/UX
+   <img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 * 🔌 APIs & Backend Development
 * 🗄️ Databases
 * 🧩 Real-world Projects
 * 🧠 Problem Solving
 
- <img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
 
 ---
 
