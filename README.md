@@ -141,8 +141,6 @@ Real-World Applications 🚀
 
 ---
 
-![Pac-Man](./pacman.svg)
-
 
 <!-- ========================= GOALS ========================= -->
 
@@ -159,15 +157,6 @@ Real-World Applications 🚀
 🎯 Become a Professional Full Stack Developer
 ```
 
----
-
-<!-- ========================= GITHUB TROPHIES ========================= -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
 
 ---
 
@@ -187,6 +176,10 @@ Real-World Applications 🚀
 
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/channels/@me">
+<img src="https://img.shields.io/badge/Discord-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
