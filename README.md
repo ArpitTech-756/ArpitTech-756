@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2757F5&center=true&vCenter=true&width=200&lines=Building+Modern+Web+Applications;Learning+Full+Stack+Development;Turning+Ideas+Into+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2757F5&center=true&vCenter=true&width=550&lines=Building+Modern+Web+Applications;Learning+Full+Stack+Development;Turning+Ideas+Into+Projects;Always+Learning+%26+Building+%F0%9F%9A%80" />
 </p>
 
 
