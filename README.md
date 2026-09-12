@@ -1,5 +1,5 @@
 <!-- ========================= HEADER ========================= -->
-
+![logo](https://github.com/ArpitTech-756/ArpitTech-756/blob/main/github%20banar.png)
 <h1 align="center">Hey 👋, I'm Arpit</h1>
 
 <h3 align="center">
