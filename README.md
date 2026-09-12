@@ -197,7 +197,9 @@ Real-World Applications 🚀
   <i>"Learn. Build. Break. Fix. Improve. Repeat."</i>
 </p>
 
-<img src="./tenor.gif" width="300">
+<p align="center">
+  <img src="./tenor.gif" width="450">
+</p>
 
 ---
 
