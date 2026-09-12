@@ -178,11 +178,11 @@ Real-World Applications 🚀
 </a>
 
 <a href="https://arpit-portfolio-gold.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=F52761"/>
 </a>
 
 <a href="https://discord.com/channels/@me">
-<img src="https://img.shields.io/badge/Discord-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-00C7B7?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </p>
