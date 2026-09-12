@@ -135,7 +135,7 @@ Real-World Applications 🚀
 
 | Project                | Technology                    | Status       | Links |
 | :--------------------- | :---------------------------- | :----------  | :---- |
-| 🎮 Tic Tac Toe         | HTML • CSS • JavaScript       | 🟢 Active   | <a href="tic-tac-toi-game-one.vercel.app"></a> |
+| 🎮 Tic Tac Toe         | HTML • CSS • JavaScript       | 🟢 Active   |<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/link-181748?                                                                                 style=for-the-badge&logo=google&logoColor=white"/></a> |
 | 🎲 Snakes & Ladders    | JavaScript                    | 🟢 Active   | link will be soon.. |
 | 🌐 Web Projects        | HTML • CSS • JavaScript       | 🟢 Active   |
 | 💻 Full Stack Projects | Frontend • Backend • Database | 🔨 Learning |
