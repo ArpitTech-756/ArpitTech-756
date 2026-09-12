@@ -133,12 +133,12 @@ Real-World Applications 🚀
 
 ## 🚀 Projects
 
-| Project                | Technology                    | Status       | Links |
-| :--------------------- | :---------------------------- | :----------  | :---- |
-| 🎮 Tic Tac Toe         | HTML • CSS • JavaScript       | 🟢 Active   |<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/link-181748?                                                                                 style=for-the-badge&logo=google&logoColor=white"/></a> |
-| 🎲 Snakes & Ladders    | JavaScript                    | 🟢 Active   | link will be soon.. |
-| 🌐 Web Projects        | HTML • CSS • JavaScript       | 🟢 Active   |
-| 💻 Full Stack Projects | Frontend • Backend • Database | 🔨 Learning |
+| Project | Technology | Status | Links |
+|---|---|---|---|
+| 🎮 Tic Tac Toe | HTML • CSS • JavaScript | 🟢 Active | [View Repository](https://github.com/USERNAME/tic-tac-toe) |
+| 🎲 Snakes & Ladders | JavaScript | 🟢 Active | [View Repository](https://github.com/USERNAME/snakes-and-ladders) |
+| 🌐 Web Projects | HTML • CSS • JavaScript | 🟢 Active | [View Repository](https://github.com/USERNAME/web-projects) |
+| 💻 Full Stack Projects | Frontend • Backend • Database | 🛠️ Learning | [Coming Soon](#) |
 
 > 🚧 More exciting projects are coming soon...
 
