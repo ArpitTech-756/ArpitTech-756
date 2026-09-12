@@ -133,10 +133,10 @@ Real-World Applications 🚀
 
 ## 🚀 Projects
 
-| Project                | Technology                    | Status      |
-| :--------------------- | :---------------------------- | :---------- |
-| 🎮 Tic Tac Toe         | HTML • CSS • JavaScript       | 🟢 Active   |
-| 🎲 Snakes & Ladders    | JavaScript                    | 🟢 Active   |
+| Project                | Technology                    | Status       | Links |
+| :--------------------- | :---------------------------- | :----------  | :---- |
+| 🎮 Tic Tac Toe         | HTML • CSS • JavaScript       | 🟢 Active   | <a href="tic-tac-toi-game-one.vercel.app"></a> |
+| 🎲 Snakes & Ladders    | JavaScript                    | 🟢 Active   | link will be soon.. |
 | 🌐 Web Projects        | HTML • CSS • JavaScript       | 🟢 Active   |
 | 💻 Full Stack Projects | Frontend • Backend • Database | 🔨 Learning |
 
