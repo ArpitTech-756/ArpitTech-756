@@ -137,7 +137,7 @@ Real-World Applications 🚀
 |---|---|---|---|
 | 🎮 Tic Tac Toe | HTML • CSS • JavaScript | 🟢 Active | [View Repository](https://tic-tac-toi-game-one.vercel.app/) |
 | 🎲 Snakes & Ladders | JavaScript | 🟢 Active | [Coming Soon](#) |
-| 🌐 Web Projects | HTML • CSS • JavaScript | 🟢 Active | [Coming Soon](#) |
+| 🌐 Web Projects | HTML • CSS • JavaScript | 🟢 Active | [Coming Soon](https://weather-report-theta-beige.vercel.app/) |
 | 💻 Full Stack Projects | Frontend • Backend • Database | 🛠️ Learning | [Coming Soon](#) |
 
 > 🚧 More exciting projects are coming soon...
