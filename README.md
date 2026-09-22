@@ -78,7 +78,10 @@ I enjoy learning by building real projects, experimenting with new technologies,
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=ArpitTech-756&background=0D1117&border=0D1117&stroke=FFFFFF&ring=0A84FF&fire=0A84FF&currStreakNum=0A84FF&sideNums=0A84FF&currStreakLabel=0A84FF&sideLabels=0A84FF&dates=4F7D8A"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
  <p align="center">
