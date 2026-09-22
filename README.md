@@ -81,6 +81,15 @@ I enjoy learning by building real projects, experimenting with new technologies,
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
+ <p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ArpitTech-756&label=PROFILE%20VIEWS&style=flat-square">
+
+<img src="https://img.shields.io/github/followers/ArpitTech-756?label=FOLLOWERS&style=flat-square">
+
+<img src="https://img.shields.io/github/stars/ArpitTech-756?label=STARS&style=flat-square">
+
+</p>
 
 ---
 
