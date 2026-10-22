@@ -50,7 +50,8 @@ I enjoy learning by building real projects, experimenting with new technologies,
 <!-- ========================= TECH STACK ========================= -->
 
 
-## 🧰 Tech Stack & Skills
+
+  <p align="center"> ## 🧰 Tech Stack & Skills</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" />
@@ -61,12 +62,22 @@ I enjoy learning by building real projects, experimenting with new technologies,
   <br><br>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL Git GitHub VS Code" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=c,kali,canva,pr,ps&theme=dark" alt="C Kali Linux Canva Premiere Pro Photoshop" />
+ 
+<!-- C and Kali Linux -->
+<img src="https://skillicons.dev/icons?i=c,kali&theme=dark" alt="C and Kali Linux" />
+
+<!-- Canva -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="48" height="48" />
+
+<!-- Premiere Pro and Photoshop -->
+<img src="https://skillicons.dev/icons?i=pr,ps&theme=dark" alt="Premiere Pro and Photoshop" />
+
 </p>
 
 <p align="center">
   <i>Building • Learning • Creating 🚀</i>
 </p>
+
 
 ---
 
