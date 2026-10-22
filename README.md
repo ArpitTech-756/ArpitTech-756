@@ -51,7 +51,7 @@ I enjoy learning by building real projects, experimenting with new technologies,
 
 
 
-  <p align="center" style="font-size: 28px;"> ## 🧰 Tech Stack & Skills</p>
+<p align="center" style="font-size: 28px;"> ## 🧰 Tech Stack & Skills</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" />
