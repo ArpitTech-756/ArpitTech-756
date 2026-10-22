@@ -128,26 +128,44 @@ I enjoy learning by building real projects, experimenting with new technologies,
 ## 🛣️ Development Journey
 
 ```text
-HTML + CSS
-    │
-    ▼
-JavaScript
-    │
-    ▼
-Frontend Development
-    │
-    ▼
-Backend Development
-    │
-    ▼
-APIs + Databases
-    │
-    ▼
-Full Stack Development
-    │
-    ▼
-Real-World Applications 🚀
+
+🎨 HTML + CSS
+   Web Foundations
+        │
+        ▼
+⚡ JavaScript
+   Logic & Interactivity
+        │
+        ▼
+🧩 Frontend Development
+   Bootstrap • Figma
+        │
+        ▼
+🛠️ Git & GitHub
+   Version Control
+        │
+        ▼
+⚙️ Backend Development
+   PHP
+        │
+        ▼
+🗄️ MySQL + APIs
+   Data & Integration
+        │
+        ▼
+🚀 Full Stack Development
+   Frontend + Backend
+        │
+        ▼
+🌍 Real-World Applications
+   Build • Test • Improve
+
 ```
+<p align="center">
+  <img src="Neon Development Journey Roadmap.png"
+       alt="Arpit's Development Journey"
+       width="100%">
+</p>
 
 ---
 
