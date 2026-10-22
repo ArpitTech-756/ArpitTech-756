@@ -49,24 +49,23 @@ I enjoy learning by building real projects, experimenting with new technologies,
 
 <!-- ========================= TECH STACK ========================= -->
 
-## 🛠️ Tech Stack
 
-### Frontend
+## 🧰 Tech Stack & Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=css,js&theme=dark" alt="CSS and JavaScript" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,php&theme=dark" alt="Bootstrap Figma PHP" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL Git GitHub VS Code" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=c,kali,canva,pr,ps&theme=dark" alt="C Kali Linux Canva Premiere Pro Photoshop" />
 </p>
 
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode," />
+<p align="center">
+  <i>Building • Learning • Creating 🚀</i>
 </p>
 
 ---
